@@ -1,2 +1,2 @@
-root@web1.mydnspt.net;WEB1
+root@web1.mydomain.net;WEB1
 USERNAME@HOST;NAME
